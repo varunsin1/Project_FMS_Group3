@@ -76,7 +76,7 @@ function setup () {
   fill('black')
   textStyle(BOLD);
   text("Fun Baby Challenges",576,170);
-  textStyle(NORMAL);
+  textStyle(ITALIC);
   text("Choose your activity!",591,260);
   
   buttonpong.mousePressed(displayPongInstructions);
